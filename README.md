@@ -1,4 +1,4 @@
-🚀 Requisitos previos
+🚀 Requisitos previos:
 
 Tener instalado Node.js y npm en tu máquina.
 
