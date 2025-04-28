@@ -1,3 +1,6 @@
+Sigue estos pasos para iniciar el proyecto:
+
+
 🚀 Requisitos previos:
 
 Tener instalado Node.js y npm en tu máquina.
